@@ -2,7 +2,6 @@
  * Ledtreiber.h
  *
  *  Created on: 30.01.2019
- *      Author: wyler
  */
 
 
